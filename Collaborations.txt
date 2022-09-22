@@ -1,0 +1,3 @@
+Collaborations->type = NULL_TYPE;
+
+(although I did talk at length with prof. James on this one)
